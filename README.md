@@ -1,1 +1,1 @@
-# Amazon_colone-_project
+this  is a amazon colone project created using html and CSS# Amazon_colone-_project
